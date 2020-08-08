@@ -57,7 +57,7 @@ dependency_overrides:
   path: ^1.6.4
   dartx: 0.3.0
   characters: 1.0.0
-  collection: 1.15.0-nullsafety
+  collection: 1.14.13
 
 dev_dependencies:
   flutter_launcher_icons: "^0.7.5"
